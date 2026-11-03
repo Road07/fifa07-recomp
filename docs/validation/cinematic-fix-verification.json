@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-03",
+  "status": "opening-and-pre-match-scenes-fixed-user-confirmed",
+  "defaultBuildTrial": "cinematic-fix-default-1",
+  "successfulControlTrial": "cinematic-rov-1",
+  "userConfirmedRovOpening": "Videolar göründü",
+  "userConfirmedRovPreMatch": "sahneler geldi ama oyun bi dondu basta",
+  "userConfirmedDefault": "Sahneler geliyor, belirgin donma yok",
+  "renderTargetPath": "rov",
+  "explicitRenderTargetCliOverrideRequired": false,
+  "diagnosticRecorderBuilt": false,
+  "normalAsyncShaderCompilation": true,
+  "defaultLogConfirmsRov": true,
+  "exeSha256": "F14AF5695EBE9292CD8B5E9279C315CE1A36AE17546DA714E55A0CACAB7D3899",
+  "runtimeSha256": "6F3A790DA0145E3DD0D3002153DD5B68151D8A52BEF89B0AF81F8A15CCC41530",
+  "gpuPluginSha256": "64CF8EC651B3ACAEE6E3E164D26F72DD9977149D8295F191B4BE8A93C05F8845",
+  "releaseBuildLog": "logs/build-cinematic-fix-default-1.log",
+  "negativeRtvControl": "cinematic-fresh-shaders-1",
+  "decodedFrameEvidence": "logs/cinematic-yuv-luma.png",
+  "launch": "tools/run-local.cmd",
+  "remainingUnverified": [
+    "Full-match completion",
+    "Save behavior",
+    "Broad performance benchmarking"
+  ]
+}

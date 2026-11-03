@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-03",
+  "sourceExportIncludesGeneratedCpp": true,
+  "generatedCppFiles": 191,
+  "sdkSourceClonePinnedCommitVerified": true,
+  "ffmpegSubmodulePinnedCommitVerified": true,
+  "sdkArchiveSha256Verified": true,
+  "sdkArchiveInstall": "Verified local copy of exact pinned release; remote transport reset during download test",
+  "portableWorkingTreeBuildPassed": true,
+  "cleanExportBuildPassed": true,
+  "cleanBuildSteps": 205,
+  "vectorRegressionCases": 472,
+  "vectorRegressionFailures": 0,
+  "pythonSourceSyntax": "passed",
+  "powerShellSourceSyntax": "passed",
+  "sourceManifestHashes": "passed",
+  "gitIgnoreDryRun": "191 generated C++ files included; no game/userdata/EXE/DLL/ISO/XEX files visible",
+  "rootLicense": "MIT for newly authored material; upstream notices retained",
+  "cleanStartupObservedSeconds": 12.2369943,
+  "cleanStartupSurvivedObservation": true,
+  "regenerationAliasCorrections": 64,
+  "guiHelpArgument": "Pinned runtime returns CLI11 parse error for --help; normal startup validated separately"
+}

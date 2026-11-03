@@ -1,0 +1,27 @@
+{
+  "declaredImports": 241,
+  "explicitStubImports": {
+    "XNetLogonGetMachineID": "tools\\rexglue-source\\src\\kernel\\xam\\xam_misc.cpp",
+    "XNetLogonGetTitleID": "tools\\rexglue-source\\src\\kernel\\xam\\xam_misc.cpp",
+    "NetDll_WSAGetOverlappedResult": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_WSARecv": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_XNetConnect": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_XNetCreateKey": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_XNetGetConnectStatus": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_XNetQosLookup": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_XNetRegisterKey": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_XNetServerToInAddr": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_XNetUnregisterKey": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_getpeername": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "NetDll_getsockname": "tools\\rexglue-source\\src\\kernel\\xam\\xam_net.cpp",
+    "XamShowAchievementsUI": "tools\\rexglue-source\\src\\kernel\\xam\\xam_ui.cpp",
+    "XamShowFriendsUI": "tools\\rexglue-source\\src\\kernel\\xam\\xam_ui.cpp",
+    "XamShowGameInviteUI": "tools\\rexglue-source\\src\\kernel\\xam\\xam_ui.cpp",
+    "XamShowGamerCardUIForXUID": "tools\\rexglue-source\\src\\kernel\\xam\\xam_ui.cpp",
+    "XamShowMarketplaceUI": "tools\\rexglue-source\\src\\kernel\\xam\\xam_ui.cpp",
+    "XamShowMessageComposeUI": "tools\\rexglue-source\\src\\kernel\\xam\\xam_ui.cpp",
+    "XamShowPlayerReviewUI": "tools\\rexglue-source\\src\\kernel\\xam\\xam_ui.cpp",
+    "XamVoiceSubmitPacket": "tools\\rexglue-source\\src\\kernel\\xam\\xam_voice.cpp"
+  },
+  "note": "Static imports identify potential unsupported paths, not proof that gameplay calls them."
+}

@@ -1,0 +1,5 @@
+Validated locally on 2026-11-03.
+Memory policy: PASS 995328 cases.
+VMX alias correction: RESULT 472 vector instruction cases, 0 failures.
+Release build: passed; SDK runtime and GPU DLLs unchanged.
+Complete match and save/reload: unverified.

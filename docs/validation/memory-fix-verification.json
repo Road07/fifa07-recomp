@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "control": {
+    "attempt": "memory-final-control-off",
+    "reserveMiB": 14,
+    "tracePhysical": false,
+    "shareCubeTextures": false,
+    "durationSeconds": 68.1177947,
+    "exitedBeforeTimeout": true,
+    "exitCode": -2147483645,
+    "exeSha256": "DE02297E956ED25197FC9027B1D93A60D8A739BF457170476A30F3D21E20FEEB",
+    "runtimeSha256": "6F3A790DA0145E3DD0D3002153DD5B68151D8A52BEF89B0AF81F8A15CCC41530",
+    "log": "logs/memory-final-control-off.log"
+  },
+  "fixed": {
+    "attempt": "memory-final-sharing-on",
+    "reserveMiB": 14,
+    "tracePhysical": false,
+    "shareCubeTextures": true,
+    "durationSeconds": 300.3727443,
+    "exitedBeforeTimeout": false,
+    "exitCode": null,
+    "exeSha256": "DE02297E956ED25197FC9027B1D93A60D8A739BF457170476A30F3D21E20FEEB",
+    "runtimeSha256": "6F3A790DA0145E3DD0D3002153DD5B68151D8A52BEF89B0AF81F8A15CCC41530",
+    "log": "logs/memory-final-sharing-on.log"
+  },
+  "maximum_cache_entries": 4,
+  "maximum_pinned_physical_bytes": 1572864,
+  "minimum_cache_hits": 256,
+  "xex_unchanged": true,
+  "memory_ini_unchanged": true,
+  "official_runtime_unchanged": true,
+  "cache_source_sha256": "c1259df314dd6eb5bc6ad0c6fe473b37dc8bc62e59d285e94b14769ee9cda983"
+}

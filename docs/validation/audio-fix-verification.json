@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-03",
+  "status": "menu-effects-fixed-user-confirmed",
+  "scope": "Menu click/transition effects after Start",
+  "successfulDiagnosticTrial": "xma-full-reference-1",
+  "defaultBuildTrial": "xma-fix-default-1",
+  "userConfirmedDiagnostic": "Düzeldi",
+  "userConfirmedDefault": "Evet, düzgün",
+  "defaultAudioCapture": false,
+  "defaultExperimentalVariablesRequired": false,
+  "exeSha256": "5783540A83FBC5CDC3C5B5A82BDC466A47C041B9FE52956614A02B725885090A",
+  "runtimeSha256": "6F3A790DA0145E3DD0D3002153DD5B68151D8A52BEF89B0AF81F8A15CCC41530",
+  "runtimeUnchanged": true,
+  "releaseBuildLog": "logs/build-xma-fix-default-1.log",
+  "launch": "tools/run-local.cmd",
+  "remainingUnverified": [
+    "Full-match audio",
+    "Missing opening/pre-match sequences",
+    "Full-match completion and save behavior"
+  ]
+}

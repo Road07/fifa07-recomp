@@ -1,0 +1,17 @@
+2026-10-30: Loading-time physical OOM fixed by bounded sharing of identical small DDS cube textures; normal launcher enables it.
+Same Release EXE SHA256 DE02297E956ED25197FC9027B1D93A60D8A739BF457170476A30F3D21E20FEEB: sharing OFF fails at 68.12 s, ON survives 300.37 s; earlier enabled trial survives 300.44 s.
+Four shared textures / 1.5 MiB, at least 256 reuses; advancing Arsenal–Tottenham match scene visually observed.
+Original default.xex, memory.ini, official nightly runtime and 14 MiB preallocation policy unchanged; rejected reserve experiments are not enabled.
+Evidence: MEMORY-FIX.md and logs/memory-fix-verification.json; launch tools/run-local.cmd. Full-match completion, saves, online and other issues were outside this fix.
+
+2026-11-02: Player deformation fixed and confirmed by the user both in the menu and on the pitch. The pinned nightly's aliased vpkd3d128 float packing overwrote a source sign bit before reading it. A targeted, regeneration-safe source snapshot corrects 64 instructions in four generated TUs. Regression: original output fails the two new aliased cases; corrected output passes all 472 vector tests. See MODEL-FIX.md, logs/vpk-alias-before.log, logs/vpk-alias-after.log, and logs/skeleton-comparison.json.
+
+2026-11-03: Distorted menu click/transition effects after Start are fixed and confirmed by the user twice: the complete reference XMA state-machine trial, then the default Release build with diagnostic flags and audio capture disabled. The local XMA implementation now runs by default, with a dedicated decoder worker and routed XMAEnableContext. The SDK DLL is unchanged. See AUDIO-ISSUE.md and logs/audio-fix-verification.json.
+
+2026-11-03: Opening videos and pre-match scenes fixed and user-confirmed in the default Release build. Decoded WMV frames were correct, but the pinned D3D12 RTV path displayed black. ROV renders the scenes; the app now selects it by default before GPU setup, while respecting explicit configuration. Diagnostic capture is excluded from the default build, and normal asynchronous shader compilation is retained. The user reported no noticeable initial freeze in the final build. See CINEMATIC-ISSUE.md and logs/cinematic-fix-verification.json.
+
+Full-match completion and save behavior are not yet verified. No failed diagnostic graphics or alternate animation flag is enabled by the normal launcher.
+
+2026-11-03 general audit: all 57 extracted files match their recorded size/SHA-256; Release rebuild passes with unchanged EXE; memory policy passes 995,328 cases and vector regression passes 472/472. Runtime/GPU DLLs match the installed official SDK. The latest normal log ends with a window-close request and no recorded fatal/OOM. User has not completed a full match. Static import audit identifies 21 explicit SDK stubs, mainly online/network and console UI functions. See PORT-CHECK.md and logs/port-audit-*.json.
+
+2026-11-03 source publication preparation: complete port sources and 191 generated game C++ files are included in the source export; game assets/binaries, saves, caches and raw captures are excluded. Newly authored material is MIT licensed, with upstream licenses retained. Dependency commits and SDK archive checksum are pinned; portable build and setup scripts added. A separate ZIP-extracted tree passed all 205 clean Release build steps using the supported local game extraction and exact SDK. See GITHUB_UPLOAD.md and docs/validation/source-package-check.json.

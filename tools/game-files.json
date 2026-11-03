@@ -1,0 +1,287 @@
+[
+  {
+    "path": "data0.bh",
+    "size": 1264,
+    "sha256": "b8290808162d5504a3b3a3b9f97cf9c0bf8f1509ab1825d8e108869fb151c9f1"
+  },
+  {
+    "path": "data0.big",
+    "size": 13642048,
+    "sha256": "f3f2e18552ebcde08e546267def02b09e6d00fcbccb00bda0b7290df1f134d55"
+  },
+  {
+    "path": "data1.bh",
+    "size": 1168,
+    "sha256": "50ef03911ad73e8fe8c67b33b4a18416c58d712942043145fda7856692376b3c"
+  },
+  {
+    "path": "data1.big",
+    "size": 13954642,
+    "sha256": "493dbcd2f5f4b618004cdd1ef4a09c2b1e6a83ffc1c38cb1ab7165150018feb4"
+  },
+  {
+    "path": "data2.bh",
+    "size": 50944,
+    "sha256": "de277d7951528e40d1dab4a3857fcca49f72ab005d5de5ca1a2f54cd8e431615"
+  },
+  {
+    "path": "data2.big",
+    "size": 706865552,
+    "sha256": "273b11b0f146107e69511876aedc5043ffa394eae93da95698712780fdaff69c"
+  },
+  {
+    "path": "data3.bh",
+    "size": 1440,
+    "sha256": "df74b06d19d0ee7372e3dcbd4faab546529c2c1c32c8c4f39c9f154a1d672931"
+  },
+  {
+    "path": "data3.big",
+    "size": 169598132,
+    "sha256": "064d905580066806b855c5c0f95aa3e4875eb662a15ef114c1d8c891507ba8da"
+  },
+  {
+    "path": "data4.bh",
+    "size": 13760,
+    "sha256": "23705d625ffdb74ea18a4524ea6400fd1a090e091b4c8fdaa1b57515c720118b"
+  },
+  {
+    "path": "data4.big",
+    "size": 860812600,
+    "sha256": "6e23c6e70d36a188799a2d1cd1b2b60f8f324c9fc1032315f8d8aea06f02b839"
+  },
+  {
+    "path": "data5.bh",
+    "size": 83920,
+    "sha256": "3e441c36737a6572e3d1877d8a60596fc0efac5e7296fb1c7b83741aa090fd3b"
+  },
+  {
+    "path": "data5.big",
+    "size": 618051519,
+    "sha256": "7fcc58b4454712b0196dacc8c836b6158fd3369cbe53bbb4943bae87c414dd06"
+  },
+  {
+    "path": "data6.bh",
+    "size": 89120,
+    "sha256": "0bf167cfcc871b4c98bd9f6f9d51a62f1381d265e163d5561d91f14f5e073c7f"
+  },
+  {
+    "path": "data6.big",
+    "size": 306459540,
+    "sha256": "14563a22e411f4d64a31f59eb75db2860bea2e23e5e5059b07abcda816a9ccde"
+  },
+  {
+    "path": "default.xex",
+    "size": 5287936,
+    "sha256": "1d5b1f38b3e5238edf9e68d57a6e8070a71f4296ff203087048d688f02fefd3a"
+  },
+  {
+    "path": "locale.ini",
+    "size": 3681,
+    "sha256": "0379ba883367d90035f6a0c39f1e8f2a0646361cf8fb8b4413268bca232389a5"
+  },
+  {
+    "path": "memory.ini",
+    "size": 3492,
+    "sha256": "f45eef22ea18c249d99303ebedbc709da78f9843c408063e29b54589247837bd"
+  },
+  {
+    "path": "$SystemUpdate\\su20076000_00000000",
+    "size": 3100672,
+    "sha256": "dc26b64e52300b15b9185cd63c37878bba74a160bbedaff449d901bc88af80e0"
+  },
+  {
+    "path": "audiodata\\announcerdata\\announcer_dat_ENG.big",
+    "size": 33303456,
+    "sha256": "6bc85a2e52e998fd16367a37389fa1f1f3a4b077d4efe5c1fed7f266b720df45"
+  },
+  {
+    "path": "audiodata\\announcerdata\\announcer_dat_FRE.big",
+    "size": 33222848,
+    "sha256": "396d79dbc23647c05642caac3d3ae03cd096da6c79794afd7f8fc1938b7c8436"
+  },
+  {
+    "path": "audiodata\\announcerdata\\announcer_dat_GER.big",
+    "size": 49779008,
+    "sha256": "8c6205bb3f877e49787449e1c290276fb5752b06cfe6785879af39bf9a031bab"
+  },
+  {
+    "path": "audiodata\\announcerdata\\announcer_dat_ITA.big",
+    "size": 36489600,
+    "sha256": "9bfd7cd0834588d804db96301aebcf9004a46153c585f9a4e77dc0a970fde5e0"
+  },
+  {
+    "path": "audiodata\\announcerdata\\announcer_dat_SPA.big",
+    "size": 39410688,
+    "sha256": "8eb0f14761c817c6a8b475424de480ae7d06ca5951296df425421d582d1cc48a"
+  },
+  {
+    "path": "audiodata\\speechdata\\Events.csi",
+    "size": 22664,
+    "sha256": "c986d4361e4c008eb6f21f1036889f5c28ac133f5d9bc7cb6688510e61f2a44f"
+  },
+  {
+    "path": "audiodata\\speechdata\\Events.evt",
+    "size": 64979,
+    "sha256": "e169e6fdcbc62f1171149012c2cc7aa0bb5b077afca32614caf320d0dc1e2915"
+  },
+  {
+    "path": "audiodata\\speechdata\\dut_nl\\dut_nl_ebo.big",
+    "size": 1136048,
+    "sha256": "da1f751b662564daf1b6e2f29305993d2df41074c848232f42fe17869e024540"
+  },
+  {
+    "path": "audiodata\\speechdata\\dut_nl\\speech_dat.big",
+    "size": 349557280,
+    "sha256": "8ae9e56fc39693971e1a374c4a472754028166ea0adc045697fb3639d2a91536"
+  },
+  {
+    "path": "audiodata\\speechdata\\dut_nl\\speech_hdr.big",
+    "size": 124816,
+    "sha256": "6af7fc1965e43b06fd9428cb6a3a42a105dac907dc817a75529d9a1a32825128"
+  },
+  {
+    "path": "audiodata\\speechdata\\dut_nl\\speech_sed.bin",
+    "size": 344448,
+    "sha256": "9bef72a36abebda67a01c35afa8677fdf3b969a4a5b6c51c188245cde51f1b69"
+  },
+  {
+    "path": "audiodata\\speechdata\\dut_nl\\speech_sth.big",
+    "size": 155880,
+    "sha256": "f7c79d05215718efaefcd118e848fad30b4fedcb0ae0700404587b04ff4adaec"
+  },
+  {
+    "path": "audiodata\\speechdata\\dut_nl\\SpeechGasScript.css",
+    "size": 172616,
+    "sha256": "5a32e525b2a8ce0987d859919765c92067328657fcd3c6a87e8fd954b53937fb"
+  },
+  {
+    "path": "audiodata\\speechdata\\eng_us\\eng_us_ebo.big",
+    "size": 1136048,
+    "sha256": "da1f751b662564daf1b6e2f29305993d2df41074c848232f42fe17869e024540"
+  },
+  {
+    "path": "audiodata\\speechdata\\eng_us\\speech_dat.big",
+    "size": 597308368,
+    "sha256": "8fa537a3d75a9fbed4e81b214850751c8631d3d3e24c9450c5757cd9eeffd8ab"
+  },
+  {
+    "path": "audiodata\\speechdata\\eng_us\\speech_hdr.big",
+    "size": 161988,
+    "sha256": "6db7911fe8ef0a09e54803ee485646033626ea9b5080c469952dcb11210116f9"
+  },
+  {
+    "path": "audiodata\\speechdata\\eng_us\\speech_sed.bin",
+    "size": 396480,
+    "sha256": "5e0eae4c970a040aab6ecab4f5559ae364bffad0edc430955039022cf139f0ee"
+  },
+  {
+    "path": "audiodata\\speechdata\\eng_us\\speech_sth.big",
+    "size": 227524,
+    "sha256": "7452eeaff07310ca83da80ce43ae6bc3d9678bfbfc43c1d7672e0ad0c1bf00fe"
+  },
+  {
+    "path": "audiodata\\speechdata\\eng_us\\SpeechGasScript.css",
+    "size": 172616,
+    "sha256": "5a32e525b2a8ce0987d859919765c92067328657fcd3c6a87e8fd954b53937fb"
+  },
+  {
+    "path": "data\\ant.big",
+    "size": 19796794,
+    "sha256": "569b9e681816c15ee76105e8ac5f330c183ce19403f4da6d993b7cab4738062d"
+  },
+  {
+    "path": "data\\createplayer.big",
+    "size": 19229664,
+    "sha256": "bb9665356e01e3c0f990a3124b8a26cd9976b42d67f7228458ac4bf0320aafd1"
+  },
+  {
+    "path": "data\\loc\\dut_nl-meta.xml",
+    "size": 962,
+    "sha256": "caaa898687ed7397f906ed8308cf11f61162aa9e3d38e963e2d7f22826e20455"
+  },
+  {
+    "path": "data\\loc\\dut_nl.db",
+    "size": 667804,
+    "sha256": "98e1a5a94768bb3a7e13713334abd6584f16f36dd830e6dd7111bb88223dc4ce"
+  },
+  {
+    "path": "data\\loc\\eng_us-meta.xml",
+    "size": 962,
+    "sha256": "a3a59a4ab4512043d5f3a4498b911c83cd04207bff25c12ae007e975de8c8d4d"
+  },
+  {
+    "path": "data\\loc\\eng_us.db",
+    "size": 657676,
+    "sha256": "8d31db50553e2c5351ffef57de878905c6f217a4d3286ec9b12493965a91f4e6"
+  },
+  {
+    "path": "data\\movies\\00_eng_us.wmv",
+    "size": 3632591,
+    "sha256": "7e6d6dcfca50e58f01b90f33ab5ab82fbbce79321faacf43254a1ae407fa098e"
+  },
+  {
+    "path": "data\\movies\\01_dut_nl.wmv",
+    "size": 1101376,
+    "sha256": "9bc3552c51357c8c826d27789dec3d2b2d85eee94f9dcb6566a09ad53bc275b0"
+  },
+  {
+    "path": "data\\movies\\01_eng_us.wmv",
+    "size": 1173376,
+    "sha256": "604e6fe493fd940e3d784029f41fb2fe9c07e30e07871d9bf3b11522cbef52ed"
+  },
+  {
+    "path": "data\\movies\\02_eng_us.wmv",
+    "size": 70374530,
+    "sha256": "dad6b6336a8e88f96da7078421ccdf609e1461e148b10a8f00384f81f8cd7b27"
+  },
+  {
+    "path": "data\\movies\\20_eng_us.vp6",
+    "size": 144380376,
+    "sha256": "b8bf102a05446143569d97a0cced818a05bdfa82a25513403b31d44cfc68006d"
+  },
+  {
+    "path": "data\\movies\\21_eng_us.vp6",
+    "size": 188809484,
+    "sha256": "43bfe1dc8a8d9b2a12ae00d46da2c5becaf90185bd19db370bb8fddd3c7db1c3"
+  },
+  {
+    "path": "data\\movies\\22_eng_us.vp6",
+    "size": 115232920,
+    "sha256": "8e139b648bb8c7fd925e4bc86c6e896650e587e5b87bd1063cf79e5a3dd517df"
+  },
+  {
+    "path": "data\\movies\\23_dut_nl.sub",
+    "size": 4210,
+    "sha256": "30474aa69256f65e640b48a51ffae9c0f4b210bef1019dd8f5b62b8edf17041c"
+  },
+  {
+    "path": "data\\movies\\23_eng_us.vp6",
+    "size": 82280896,
+    "sha256": "628eaeacb0c2c2cf1ee3570fc262ec869f474ea84f18cd53a673d36c47501629"
+  },
+  {
+    "path": "data\\movies\\24_dut_nl.sub",
+    "size": 7734,
+    "sha256": "a2c7c561f42170d0134a647a797460c94fe5e9092e45a31a56afbfc463ec4e07"
+  },
+  {
+    "path": "data\\movies\\24_eng_us.sub",
+    "size": 7468,
+    "sha256": "b0add610390ea3f959680d2d05980cb5fdadcac443be02bbf13a051e7e4c4c2c"
+  },
+  {
+    "path": "data\\movies\\24_eng_us.vp6",
+    "size": 114983840,
+    "sha256": "0cbd7e29702881b743593c661dc0cf18e0bd8426bef53d3dc0c37fdf199c49a7"
+  },
+  {
+    "path": "data\\nis\\nisnames.bin",
+    "size": 342529,
+    "sha256": "1c681ad3014c170a7e8ca1aa630b12b894c701e0ce0ee5d3026af60a1e65d1fb"
+  },
+  {
+    "path": "data\\nis\\scripts.bin",
+    "size": 16006,
+    "sha256": "c117d0d96a297056255cb65f3497b9b49f8b3ff50ee975b44e8a4ae0ed6c62d0"
+  }
+]

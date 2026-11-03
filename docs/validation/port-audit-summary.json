@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-03",
+  "scope": "Read-only integrity/source/log review and existing regression/build checks",
+  "assetIntegrity": true,
+  "assetCount": 57,
+  "releaseBuildExitCode": 0,
+  "exeSha256": "F14AF5695EBE9292CD8B5E9279C315CE1A36AE17546DA714E55A0CACAB7D3899",
+  "memoryPolicyCasesPassed": 995328,
+  "vectorCases": 472,
+  "vectorFailures": 0,
+  "cinematicDiagnosticBuild": false,
+  "animationAuditBuild": false,
+  "explicitSdkStubImports": 21,
+  "userFullMatchStatus": "Henüz tam maç bitirmedim",
+  "saveReloadVerified": false,
+  "report": "PORT-CHECK.md"
+}

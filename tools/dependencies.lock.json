@@ -1,0 +1,24 @@
+{
+  "sdk": {
+    "repository": "https://github.com/rexglue/rexglue-sdk.git",
+    "commit": "bd833a2ab69d305f99ddf57418fc38ffec8af93d",
+    "version": "0.10.0.24-dev.gbd833a2",
+    "windows_url": "https://github.com/rexglue/rexglue-sdk/releases/download/nightly-20261002-bd833a2a/rexglue-sdk-0.10.0.24-dev.gbd833a2-win-amd64.zip",
+    "windows_sha256": "1e19d7ec9be0d9d7e1a0088a34a33b068d4dea520181e81318528ef3b37627e7"
+  },
+  "ffmpeg": {
+    "repository": "https://github.com/wmarti/FFmpeg.git",
+    "commit": "0604b464c7cb4ebc94940cf1f324a3b26b87717c"
+  },
+  "xenia_reference": {
+    "commit": "f448664",
+    "exe_sha256": "9eeec5eafe9550242bee581e2ae7788bd38addfb7e65bdcf9cb221a1ff0a5755",
+    "optional": true
+  },
+  "toolchain": {
+    "clang_major": 20,
+    "validated_clang": "20.1.8",
+    "visual_studio": "2022 C++ Build Tools, with CMake and Ninja",
+    "python": "3.10 or newer"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "floatPackCorrections": [
+    {
+      "file": "fifa07_recomp.101.cpp",
+      "correctedInstructions": 1
+    },
+    {
+      "file": "fifa07_recomp.158.cpp",
+      "correctedInstructions": 3
+    },
+    {
+      "file": "fifa07_recomp.82.cpp",
+      "correctedInstructions": 20
+    },
+    {
+      "file": "fifa07_recomp.9.cpp",
+      "correctedInstructions": 40
+    }
+  ],
+  "totalCorrected": 64,
+  "officialBinaries": [
+    {
+      "file": "rexruntime.dll",
+      "sha256": "6f3a790da0145e3dd0d3002153dd5b68151d8a52bef89b0af81f8a15ccc41530",
+      "matchesOfficialSdk": true
+    },
+    {
+      "file": "rexgpu-xenos.dll",
+      "sha256": "64cf8ec651b3acaee6e3e164d26f72dd9977149d8295f191b4be8a93c05f8845",
+      "matchesOfficialSdk": true
+    }
+  ]
+}
